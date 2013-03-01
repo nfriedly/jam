@@ -1,0 +1,6 @@
+{
+    "name": "package-plugin",
+    "version": "0.0.1",
+    "description": "Test plugin package",
+    "main": "plugin.js"
+}

@@ -1,0 +1,15 @@
+{
+    "jam": {
+		"requireconfig": {
+			"package-plugin": {
+				"option-a": "a",
+				"option-b": "b"
+			}
+		},
+		"dependencies": {
+			"package-one": null,
+			"package-plugin": null,
+			"package-three": null
+		}
+    }
+}

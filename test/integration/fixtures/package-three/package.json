@@ -1,0 +1,9 @@
+{
+    "name": "package-three",
+    "version": "0.0.1",
+    "description": "Test package three - depends on package-plugin to parse package-one",
+    "dependencies": {
+        "package-one": null,
+        "package-plugin": null
+    }
+}
